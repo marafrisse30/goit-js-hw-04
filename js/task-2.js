@@ -9,7 +9,7 @@ let totalCalories = 0
     
  }
 
-return ` Average alories: ${totalCalories / 7} `
+return ` Average calories: ${totalCalories / 7} `
 
 }
 
